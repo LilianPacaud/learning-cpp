@@ -22,7 +22,7 @@ int getFib(int number)
     while (i < number + 1)
     {
         fibArray[i] = fibArray[i - 1] + fibArray[i - 2];
-        i = i + 1;
+        i++;
     }
 
     return fibArray[number];

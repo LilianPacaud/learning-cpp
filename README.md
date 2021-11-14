@@ -12,3 +12,9 @@ Please input a number:
 10
 55
 ```
+
+# Prime numbers under 200
+Run
+```
+g++ prime.cpp -o prime && "/home/lilian/c++/"prime
+```
