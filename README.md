@@ -1,5 +1,7 @@
 # Learning C++
-
+```
+cd cpp
+```
 ## Fibonacci
 Run
 ```
@@ -17,4 +19,20 @@ Please input a number:
 Run
 ```
 g++ prime.cpp -o prime && "/home/lilian/c++/"prime
+```
+
+# Typescript equivalence
+```
+cd typescript
+```
+
+## Fibonacci
+Run
+```
+tsc 
+node build/fib.js 10
+```
+Output:
+```
+55
 ```
